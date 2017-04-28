@@ -1,0 +1,5 @@
+Task CompileDCode
+	InputParameter SourceFiles Files
+	OutputFile OutputBinary
+CommandLineProgram dmd
+	ImplementsTask CompileDCode

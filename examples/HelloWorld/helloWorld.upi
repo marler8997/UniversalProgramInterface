@@ -1,0 +1,4 @@
+CommandLineProgram helloworld
+	Source
+		Files helloWorld.d
+		Language D

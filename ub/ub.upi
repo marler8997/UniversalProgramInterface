@@ -1,0 +1,4 @@
+CommandLineProgram ub
+	Source
+		Files ub.d
+		Language D
